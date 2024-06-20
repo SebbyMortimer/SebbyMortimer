@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SebbyMortimer
-- 👀 I’m interested in *using JavaScript with HTML to create a web site where you are given a nice UI for an API.*
+- 👀 I’m interested in *computers*
 - 🌱 I’m currently learning *how to make a nice looking web page.*
 - 💞️ I’m currently not looking to collaborate on anything.
 - 📫 How to reach me *: You can reach me on Discord @wildcutepenguin*
