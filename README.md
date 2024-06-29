@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SebbyMortimer
 - 👀 I’m interested in *computers*
-- 🌱 I’m currently learning *how to make a nice looking web page.*
+- 🌱 I’m currently learning *about networking.*
 - 💞️ I’m currently not looking to collaborate on anything.
 - 📫 How to reach me *: You can reach me on Discord @wildcutepenguin*
 
